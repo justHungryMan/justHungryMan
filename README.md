@@ -12,7 +12,7 @@ I'm Sungjun who is interested in Generative Model
 #### Education
 
 1. Bachelor degree of Computer Science Engineering at Sogang University (2012 - 2019)
-2. Masger degree of Computer Science Engineering at Sogang University (2020 - )
+2. Master degree of Computer Science Engineering at Sogang University (2020 - )
 
 #### Competitions
 
