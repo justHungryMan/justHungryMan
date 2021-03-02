@@ -2,7 +2,7 @@
 
 I'm Sungjun who is interested in Generative Model
 
-🌱 I’m currently doing [face reconstruction](https://github.com/justHungryMan/face_reconstruction)
+🌱 I’m currently doing research on Kakao Brain
 
 
 #### Experience
