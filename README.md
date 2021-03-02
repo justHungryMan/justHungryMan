@@ -17,7 +17,7 @@ I'm Sungjun who is interested in Generative Model
 
 #### Competitions
 
-🍀 2020 Naver AI Rush Challenge, 1st Prize on 3 Areas (Auto Tagging on Naver Shopping Image, Mood Classification on Music, Genre Classfication on Japanese Music)
+🍀 2020 Naver AI Rush Challenge, 1st Prize on 3 Areas (Auto Tagging on Naver Shopping Image, Mood Classification on Music, Genre Classification on Japanese Music)
 
 🔬 2020 Korea Health Dataton 2nd Prize (Binary Classification on Breast Cancer Pathology Image)
 
