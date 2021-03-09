@@ -2,7 +2,7 @@
 
 I'm Sungjun who is interested in Generative Model
 
-🌱 I’m currently doing research on Kakao Brain
+🌱 Research Intern @kakaobrain
 
 
 #### Experience
