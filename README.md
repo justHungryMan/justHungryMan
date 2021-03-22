@@ -1,13 +1,11 @@
 ### Hi there 👋
 
-I'm Sungjun who is interested in Generative Model
-
-🌱 Research Intern @kakaobrain
-
+I'm Jun.
 
 #### Experience
 
 🇺🇸 Intern as a front end developer - [Wavity](https://www.wavity.com)
+🌱 Research Intern @kakaobrain
 
 #### Education
 
