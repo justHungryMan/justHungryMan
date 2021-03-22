@@ -5,6 +5,7 @@ I'm Jun.
 #### Experience
 
 🇺🇸 Intern as a front end developer - [Wavity](https://www.wavity.com)
+
 🌱 Research Intern @kakaobrain
 
 #### Education
