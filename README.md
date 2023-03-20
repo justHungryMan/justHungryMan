@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm Jun.
+I'm interested in Large-scale Engineering, Data Engineering, Representation Learning, Multi-modal Understanding, Training Optimization, Data Curation 
 
 #### Experience
 
-🇺🇸 Intern as a front end developer - [Wavity](https://www.wavity.com)
+💻 Research Intern - [Kakaobrain](https://www.kakaobrain.com/)
+
+🇺🇸 Intern as a UI developer - [Wavity](https://www.wavity.com)
 
 🌱 Research Intern @kakaobrain
 
@@ -12,13 +14,13 @@ I'm Jun.
 
 🇰🇷 Bachelor degree of Computer Science Engineering at Sogang University (2012 - 2019)
 
-🇰🇷 Master degree of Computer Science Engineering at Sogang University (2020 - )
+🇰🇷 Master degree of Computer Science Engineering at Sogang University (2020 - 2022)
 
 #### Competitions
 
-🍀 2020 Naver AI Rush Challenge, 1st Prize on 3 Areas (Auto Tagging on Naver Shopping Image, Mood Classification on Music, Genre Classification on Japanese Music)
-
 🔬 2020 Korea Health Dataton 2nd Prize (Binary Classification on Breast Cancer Pathology Image)
+
+🍀 2020 Naver AI Rush Challenge, 1st Prize on 3 Areas (Auto Tagging on Naver Shopping Image, Mood Classification on Music, Genre Classification on Japanese Music)
 
 <!--
 **justHungryMan/justHungryMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
