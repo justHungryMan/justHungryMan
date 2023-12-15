@@ -4,11 +4,13 @@ I'm interested in Large-scale Engineering, Data Engineering, Representation Lear
 
 #### Experience
 
+🚌 LLM Data Engineer (now) - [42dot](https://www.42dot.ai/)
+
 💻 Research Intern - [Kakaobrain](https://www.kakaobrain.com/)
 
-🇺🇸 Intern as a UI developer - [Wavity](https://www.wavity.com)
-
 🌱 Research Intern @kakaobrain
+
+🇺🇸 Intern as a UI developer - [Wavity](https://www.wavity.com)
 
 #### Education
 
